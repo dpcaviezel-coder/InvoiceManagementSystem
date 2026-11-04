@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\bin\Debug\net8.0\InvoiceManagementSystem.exe
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\bin\Debug\net8.0\InvoiceManagementSystem.deps.json
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\bin\Debug\net8.0\InvoiceManagementSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\bin\Debug\net8.0\InvoiceManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\bin\Debug\net8.0\InvoiceManagementSystem.pdb
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\refint\InvoiceManagementSystem.dll
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.pdb
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\InvoiceManagementSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\InvoiceManagementSystem\InvoiceManagementSystem\obj\Debug\net8.0\ref\InvoiceManagementSystem.dll
